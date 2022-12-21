@@ -1,0 +1,59 @@
+[
+    {
+        "name": "iPhone 12",
+        "price": 70999,
+        "rating": 4.5,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy S21",
+        "price": 45999,
+        "rating": 4.0,
+        "company": "samsung"
+    },
+    {
+        "name": "XPS 13",
+        "price": 10999,
+        "rating": 4.5,
+        "company": "dell"
+    },
+    {
+        "name": "dell inspiron",
+        "price": 78999,
+        "rating": 4.7,
+        "feature": "true",
+        "company": "dell"
+    },
+    {
+        "name": "Acer Aspire 15",
+        "price": 108000,
+        "company": "acer",
+        "featured":true
+    },
+    {
+        "name": "samsung A75",
+        "price": 47120,
+        "rating": 4.6,
+        "company": "samsung"
+    },
+    {
+        "name": "Thin Pad",
+        "price": 89100,
+        "rating": 4.12,
+        "company": "lenovo"
+    },
+    {
+        "name": "iphone 10",
+        "price": 60100,
+        "rating": 4.5,
+        "company": "apple"
+    },
+    {
+        "name": "redmi note 10 pro",
+        "price": 45600,
+        "rating": 4.8,
+        "company": "mi"
+    }
+
+]
